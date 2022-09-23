@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,500&display=swap');
+
+header{
+    background-color: white;
+    min-height: 65px;
+    padding: 15px 25px;
+}
+#main  {
+    padding-left: 0;
+    margin-bottom: 0;
+    height: 100%;
+}
+
+
+#main li {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    height: 100%; 
+}
+
+#main li a {
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: fit-content;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#title{
+    font-size: 100px;
+    font-family: 'Roboto Serif', serif;
+}
+.description{
+    margin: 0px 250px;
+    
+}
+.pic{
+    width: 520px;
+    height:300px;
+}
+#bgphoto{
+    width: 400px;
+    height:710px;
+
+}
+#logo{
+    width:90px;
+    height:90px;
+}
+footer{
+    background-color: #DDF1FF;
+}
+
+
+
